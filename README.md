@@ -11,4 +11,4 @@ I'm Cameron, a software developer with experience in web development and program
 - Email: cbknox13@gmail.com
 - GitHub: https://github.com/cameronbknox
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,cs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,cs,materialui,nodejs)](https://skillicons.dev)
