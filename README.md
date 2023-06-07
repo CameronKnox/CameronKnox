@@ -9,6 +9,6 @@ I'm Cameron, a software developer with experience in web development and program
 
 ## Contact Me
 - Email: cbknox13@gmail.com
-- GitHub: https://github.com/cameronbknox
+- GitHub: https://github.com/cameronknox
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,cs,materialui,nodejs)](https://skillicons.dev)
