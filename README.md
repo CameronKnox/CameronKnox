@@ -1,11 +1,31 @@
-# Hi there! 👋
+# Hi, I'm Cameron
+## Software Developer
 
-I'm Cameron, a software developer with experience in web development and programming languages such as JavaScript, HTML, CSS, React, and C#. I'm always eager to learn and explore new technologies to improve my skills and bring value to the projects I work on.
+Welcome to my GitHub profile. I am a dedicated software developer with expertise in web development and a diverse range of programming languages and technologies.
 
-## Skills
-- Programming: JavaScript, HTML, CSS, React, C#
-- Tools and Technologies: Git, Node.js, Material UI, RESTful APIs, MS SQL Server
-- Other: Responsive web design, Accessibility, UI/UX design, SaaS
+### Technical Proficiencies
+
+#### Languages
+- JavaScript
+- HTML5
+- CSS3
+- C#
+
+#### Frameworks & Libraries
+- React.js
+
+#### Tools & Technologies
+- Git
+- Node.js
+- Material UI
+- RESTful APIs
+- Microsoft SQL Server
+
+#### Areas of Expertise
+- Responsive Web Design
+- Accessibility
+- UI/UX Design
+- Software as a Service (SaaS)
 
 ## Contact Me
 - Email: cbknox13@gmail.com
